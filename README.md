@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/amandayma02" target="blank"><img src="https://img.shields.io/twitter/follow/amandayma02?logo=twitter&style=for-the-badge" alt="amandayma02" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **Machine Learning Project**
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **AI & ML**
 
-- 📫 How to reach me **amandayma.comm@gmail.com**
+- 📫 How to reach me **amandayma.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
